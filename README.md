@@ -18,7 +18,6 @@ Final-year student (GPA 3.63/4.0) based in Ho Chi Minh City, focused on software
 
 ## 📌 Featured
 - [Xsmell](https://github.com/thzynu/Xsmell): explainable ML framework for code smell detection and refactoring recommendation
-- [QA Portfolio](https://github.com/thzynu/qa-portfolio): sample test plan, test cases and bug reports
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/thzynu2795/) · thzynu2795@gmail.com
