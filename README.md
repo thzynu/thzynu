@@ -1,6 +1,7 @@
 # Hi, I'm Vy 👋
 
 **Software Engineering student at UEH | Aspiring QA/Tester**
+
 Final-year student (GPA 3.63/4.0) based in Ho Chi Minh City, focused on software quality assurance and applying AI to software reliability.
 
 ## 🔍 What I do
